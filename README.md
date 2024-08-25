@@ -30,6 +30,6 @@
 
 <p>&nbsp;<img align="center" width = "70%" src="[[(https://github-readme-stats.vercel.app/api?username=Mohammed-Juniad-Hussain)]](https://github.com/anuraghazra/github-readme-stats) alt="MusadiqPasha" /></p>
 
-<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=MusadiqPasha&" alt="MusadiqPasha" /></p>
+<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Juniad-Hussain" alt="MusadiqPasha" /></p>
 
-<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MusadiqPasha&show_icons=true&locale=en&layout=compact" alt="MusadiqPasha" /></p>
+<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohammed-Juniad-Hussain" alt="MusadiqPasha" /></p>

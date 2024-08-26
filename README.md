@@ -28,7 +28,7 @@
 
 # GitHub Stats
 
-<p>&nbsp;<img align="center" width = "70%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Juniad-Hussain alt="Mohammed-Juniad-Hussain" /></p>
+<p><img align="center" width = "70%" src="https://github-readme-stats.vercel.app/api?username=Mohammed-Juniad-Hussain alt="Mohammed-Juniad-Hussain" /></p>
 
 <p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-Juniad-Hussain" alt="Mohammed-Juniad-Hussain" /></p>
 

@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Junaid Hussain</h1>
-<img align="right" width="40%" src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif">
 <p align="left">💻 I'm interested in Machine Learning & Web dev</p>
 <p align="left"> 📈 I’m looking to collaborate on Computer Projects and Research. </p>
 <p align="left"> 📫 How to reach me : 
 <a href="mailto:junaidhussain798@outlook.com">junaidhussain798@outlook.com </a> 
   
-<a href="https://www.linkedin.com/in/junaidhussain798/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MusadiqPasha" height="30" width="40" /></a></a></p>
+<a href="https://www.linkedin.com/in/junaidhussain798/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammed-Junaid-Hussain" height="30" width="40" /></a></a></p>
 
 <p align="left" width="25%"> <img src="https://komarev.com/ghpvc/?username=Mohammed-Junaid-Hussain&label=Profile%20views&color=0e75b6&style=flat" alt="Junaid_Hussain" /> </p>
 
